@@ -1,0 +1,109 @@
+html {
+    direction: rtl;
+}
+
+.navigation-bar__left {
+    text-align: right !important;
+}
+
+.navigation-bar__right {
+    text-align: left !important;
+}
+.field-wrapper {
+    padding: 8px 0;
+	text-align: left !important;
+
+}
+#menu-list price {
+    float: right !important;
+    margin-right: 6px !important;
+}
+.navigation-bar__item,
+.navigation-bar__left,
+.navigation-bar__right,
+.navigation-bar__center {
+    float: right !important;
+}
+.right{
+    float: left !important;
+}
+.alert-dialog-title,.alert-dialog-content{
+    text-align: right !important;
+}
+.fa-chevron-right::before {
+
+    content: "\f053" !important;
+}
+
+.search-btn {
+    left: 15px !important;
+    right: auto !important;
+}
+
+.main-menu-list,
+.bottom-menu-item:first-child,
+.bottom-menu-item {
+
+    text-align: right !important;
+}
+
+.fa-chevron-left::before {
+
+    content: "\f054" !important;
+}
+
+.list {
+    text-align: right !important;
+}
+
+.border-left {
+
+    border-right: 1px solid #666;
+    padding-right: 8px;
+    border-left: 0px solid #666 !important;
+    padding-left: 0px !important;
+}
+
+.text-right {
+
+    text-align: left !important;
+}
+
+.logo-wrap.logo-non-auto {
+
+    float: right !important;
+}
+
+.ion-chevron-left::before {
+
+    content: "\f125" !important;
+}
+
+.ion-ios-arrow-back::before {
+
+    content: "\f3d3" !important;
+}
+
+.ion-ios-arrow-thin-right::before {
+
+    content: "\f3d5" !important;
+}
+.radio-button {
+
+    text-align: right !important;
+    }
+    .list__item--chevron::before {
+
+    left: 16px !important; right: auto ;
+    content: "\f104" !important;
+}.list__header {
+    text-align: right!important;
+    }
+    .text-left {
+    text-align: right!important;
+}
+.r_al
+{
+    float:right !important;
+    margin-left: 5px;
+}
